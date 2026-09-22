@@ -1,6 +1,7 @@
 # 🔬 Research & Engineering Notes: kueue
 
-- **Date**: 2026-09-14 21:11:54
+- **Date**: 2026-09-22 21:00:32
+- **Branch**: `research/notes`
 - **Upstream Repository**: [kubernetes-sigs/kueue](https://github.com/kubernetes-sigs/kueue)
 - **Stargazers**: ★ 2969
 - **Summary**: Kubernetes-native Job Queueing and Batch Quota Management
@@ -14,4 +15,4 @@
 對於 AI/ML 大規模分散式訓練與批次推論任務的優先權排程、搶占控制做得極度嚴密，且原生支援 DRA 與 Cluster Autoscaler。
 
 ## 🚀 Action Items & Next Steps
-先 fork 過來實測它的 fair-sharing 演算法與 local queue 行為，確保能跟目前研究的 autoscaling policy 順利對接。
+持續在 research/notes 分支推進，實測它的 fair-sharing 演算法與 local queue 行為，確保能跟目前研究的 autoscaling policy 順利對接。
