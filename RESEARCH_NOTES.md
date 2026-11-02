@@ -1,6 +1,6 @@
 # 🔬 Research & Engineering Notes: kueue
 
-- **Date**: 2026-10-29 21:00:27
+- **Date**: 2026-11-02 21:00:24
 - **Branch**: `research/notes`
 - **Upstream Repository**: [kubernetes-sigs/kueue](https://github.com/kubernetes-sigs/kueue)
 - **Stargazers**: ★ 2969
